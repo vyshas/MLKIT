@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1015365427400",
+    "firebase_url": "https://ml-kit-codelab-f04ca.firebaseio.com",
+    "project_id": "ml-kit-codelab-f04ca",
+    "storage_bucket": "ml-kit-codelab-f04ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015365427400:android:693c00b96c712e8c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015365427400-5j6irsr1a4719ftuqntfbedb1msose2v.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1015365427400-5j6irsr1a4719ftuqntfbedb1msose2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAolZXZDkiBQGlnQ8fP6rJ2W3hUxHTncbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
